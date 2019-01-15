@@ -7,6 +7,12 @@ import org.apache.log4j._
 
 
 /*
+DATASET comma-survey.csv is taken from fivethirtyeight
+
+Link for git for the file:https://github.com/fivethirtyeight/data/tree/master/comma-survey
+*/
+
+/*
  * Based on the comma dataset
  * field 0:RespondentID
  * field 1:"In your opinion, which sentence is more gramatically correct?"(It's important for a person to be honest, kind and loyal.)
